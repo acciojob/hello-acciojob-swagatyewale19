@@ -1,5 +1,11 @@
+.Accio{
+	width: 150px;
+	height: 150px;
+	background: black;
+	
+}
 
-main.Accio#Job{
+#Job{
 	width: 150px;
 	height: 150px;
 	background: black;
